@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+## Introduction
+
+This is a e-commerce website (react app) that uses Firebase for login authentication and StripeAPI for payments. This project was made for my Software Engineering course with two other colleagues. 
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
