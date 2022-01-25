@@ -1,0 +1,22 @@
+.dashboard__body {
+  display: flex;
+  height: 100vh;
+}
+
+.Card__Chart {
+  display: grid;
+  flex: 1;
+}
+.card__container {
+  display: flex;
+  padding-top: 20px;
+  padding-left: 20px;
+  background-color: whitesmoke;
+  justify-content: space-between;
+  padding-right: 20px;
+}
+
+.Chart__container {
+  background-color: whitesmoke;
+  display: flex;
+}

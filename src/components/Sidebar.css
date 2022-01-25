@@ -1,0 +1,40 @@
+.SidebarContainer {
+  color: white;
+  background-color: #2e6d5b;
+  flex: 0.3;
+  border-top: 1px solid #0f0e0f;
+  max-width: 240px;
+  padding: 0px;
+  margin-top: 0%;
+  height: 100vh;
+  position: -webkit-sticky;
+  position: sticky;
+}
+
+.SidebarHeader {
+  display: flex;
+  border-bottom: 1px solid #49274b;
+  padding: 13px;
+}
+
+
+.SidebarInfo > h2 {
+  font-size: 15px;
+  font-weight: 900;
+  margin-bottom: 5px;
+  margin-left: 20px;
+}
+
+.SidebarInfo > h3 {
+  display: flex;
+  font-size: 13px;
+  font-weight: 400;
+  align-items: center;
+  margin-left: 20px;
+}
+.SidebarInfo > h3 > .MuiSvgIcon-root {
+  font-size: 14px;
+  margin-top: 1px;
+  margin-right: 2px;
+  color: green;
+}

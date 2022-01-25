@@ -1,0 +1,20 @@
+.SidebarOptionContainer {
+  display: flex;
+  font-size: 12px;
+  align-items: center;
+  padding-left: 2px;
+  cursor: pointer;
+}
+
+.SidebarOptionContainer:hover {
+  opacity: 0.9;
+  background-color: #54c0a2;
+}
+
+.SidebarOptionContainer > h3 {
+  font-weight: 500;
+}
+
+.SidebarOptionContainer > h3 > span {
+  padding: 15px;
+}
