@@ -1,6 +1,6 @@
 ## Introduction
 
-This is a e-commerce website (react app) that uses Firebase for login authentication and StripeAPI for payments. This project was made for my Software Engineering course with two other colleagues. 
+This is a e-commerce website (react app) that uses Firebase for login authentication and StripeAPI for payments. This project was made for my Software Engineering course with two other colleagues. The entire experience was made in 2 sprints using Agile methodology and was comprehensively documented (the file is also uploaded)
 
 ### Getting Started with Create React App
 
